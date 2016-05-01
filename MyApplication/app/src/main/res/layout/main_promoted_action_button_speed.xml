@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_tor_button"
+    android:layout_width="@dimen/_130sdp"
+    android:layout_height="@dimen/_73sdp"
+    android:visibility="visible"
+    android:layout_alignParentBottom="true"
+    android:layout_centerInParent="true"
+    android:background="@drawable/bg_expandable_selector_dark_gray"
+    android:textSize="@dimen/_25sdp"
+    android:textColor="#fff"
+    android:textStyle="bold"
+    android:typeface="monospace"
+    />
+
+
+
+
+<!-- android:layout_gravity="bottom|right"   -->

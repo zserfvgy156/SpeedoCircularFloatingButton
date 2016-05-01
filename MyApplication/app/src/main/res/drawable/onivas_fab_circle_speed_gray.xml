@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/rounded_button_shadow"/>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#759FFF" />
+            <size
+                android:width="90dp"
+                android:height="90dp"/>
+            <gradient
+                android:type="linear"
+                android:startColor="#CCE5FF"
+                android:centerColor="#A0A0A0"
+                android:endColor="#E0E0E0"
+                android:centerX="0.5"
+                android:centerY="0.5"
+                android:angle="45"
+                />
+        </shape>
+    </item>
+</layer-list>
