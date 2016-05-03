@@ -7,3 +7,4 @@ An speedometer's Segments using circular floating menu for Android.
 
 Importing others library :
 https://github.com/intuit/sdp
+https://github.com/onivas/MenuAnimation
